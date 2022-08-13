@@ -11,4 +11,4 @@
 import os
 
 ALIVE_MEDIA = os.environ.get("ALIVE_MEDIA")
-UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "https://github.com/UsergeTeam/Userge")
+UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "https://github.com/docugs/pluginpack1")
